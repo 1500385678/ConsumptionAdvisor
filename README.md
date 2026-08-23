@@ -1,4 +1,5 @@
 # ConsumptionAdvisor
+<<<<<<< HEAD
 
 > 11-消费-Consumption 行业 Web 项目 · 内部代号 ConsumptionAdvisor
 
@@ -12,3 +13,6 @@
 ## 自动化
 - T4 每日 02:00 检查项目并更新开发计划
 - T5 每日 03:00 完成小步开发并 commit + push
+=======
+ConsumptionAdvisor - 11-消费-Consumption 行业 Web 项目
+>>>>>>> github/main
