@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "数码",
+    "slug": "digital",
+    "priority": "P0",
+    "decision_bias": "长值优先,谨慎升级",
+    "subcategories": [
+      {
+        "name": "手机",
+        "examples": [
+          "iPhone 15",
+          "小米 14"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "家电",
+    "slug": "home-appliance",
+    "priority": "P0",
+    "decision_bias": "长寿命+能耗",
+    "subcategories": [
+      {
+        "name": "空调",
+        "examples": [
+          "美的",
+          "格力"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "服饰",
+    "slug": "apparel",
+    "priority": "P1",
+    "decision_bias": "场合+频次",
+    "subcategories": [
+      {
+        "name": "内衣",
+        "examples": [
+          "Ubras"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "美妆",
+    "slug": "beauty",
+    "priority": "P1",
+    "decision_bias": "成分+肤质匹配",
+    "subcategories": [
+      {
+        "name": "护肤",
+        "examples": [
+          "雅诗兰黛"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "母婴",
+    "slug": "maternal-infant",
+    "priority": "P0",
+    "decision_bias": "安全标准+真实口碑",
+    "subcategories": [
+      {
+        "name": "奶粉",
+        "examples": [
+          "爱他美"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "食品",
+    "slug": "food",
+    "priority": "P1",
+    "decision_bias": "配料表优先",
+    "subcategories": [
+      {
+        "name": "零食",
+        "examples": [
+          "三只松鼠"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "家居",
+    "slug": "home",
+    "priority": "P1",
+    "decision_bias": "频次+收纳",
+    "subcategories": [
+      {
+        "name": "床品",
+        "examples": [
+          "MUJI"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "运动户外",
+    "slug": "sports",
+    "priority": "P2",
+    "decision_bias": "频次决定预算",
+    "subcategories": [
+      {
+        "name": "跑鞋",
+        "examples": [
+          "HOKA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "图书教育",
+    "slug": "books",
+    "priority": "P2",
+    "decision_bias": "电子优先",
+    "subcategories": [
+      {
+        "name": "专业书",
+        "examples": [
+          "图灵"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "健康保健",
+    "slug": "health",
+    "priority": "P1",
+    "decision_bias": "体检优先",
+    "subcategories": [
+      {
+        "name": "维生素",
+        "examples": [
+          "Nature Made"
+        ]
+      }
+    ]
+  }
+]

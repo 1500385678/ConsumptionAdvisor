@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ConsumptionAdvisor Data Schema",
+  "description": "校验 categories.json / brands.json 结构的轻量 schema",
+  "definitions": {
+    "category": {
+      "type": "object",
+      "required": ["id", "name", "slug", "priority", "subcategories"],
+      "properties": {
+        "id": {"type": "integer", "minimum": 1},
+        "name": {"type": "string", "minLength": 1},
+        "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+        "priority": {"type": "string", "enum": ["P0", "P1", "P2"]},
+        "decision_bias": {"type": "string"},
+        "subcategories": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "properties": {
+              "name": {"type": "string"},
+              "examples": {"type": "array", "items": {"type": "string"}}
+            }
+          }
+        }
+      }
+    },
+    "brand": {
+      "type": "object",
+      "required": ["id", "name", "slug", "category_slug", "scores"],
+      "properties": {
+        "id": {"type": "integer", "minimum": 1},
+        "name": {"type": "string"},
+        "slug": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+        "category_slug": {"type": "string"},
+        "origin": {"type": "string"},
+        "positioning": {"type": "string", "enum": ["high-end", "mid", "entry", "value"]},
+        "scores": {
+          "type": "object",
+          "required": ["quality", "service", "value"],
+          "properties": {
+            "quality": {"type": "number", "minimum": 0, "maximum": 5},
+            "service": {"type": "number", "minimum": 0, "maximum": 5},
+            "value": {"type": "number", "minimum": 0, "maximum": 5}
+          }
+        },
+        "notes": {"type": "string"}
+      }
+    }
+  },
+  "oneOf": [
+    {
+      "type": "array",
+      "items": {"$ref": "#/definitions/category"}
+    },
+    {
+      "type": "array",
+      "items": {"$ref": "#/definitions/brand"}
+    }
+  ]
+}

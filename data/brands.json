@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple",
+    "category_slug": "digital",
+    "origin": "美国",
+    "positioning": "high-end",
+    "scores": {
+      "quality": 4.8,
+      "service": 4.2,
+      "value": 3.5
+    },
+    "notes": "生态闭环强,保值率中等"
+  },
+  {
+    "id": 2,
+    "name": "小米",
+    "slug": "xiaomi",
+    "category_slug": "digital",
+    "origin": "中国",
+    "positioning": "value",
+    "scores": {
+      "quality": 4.0,
+      "service": 3.5,
+      "value": 4.6
+    },
+    "notes": "性价比标杆"
+  },
+  {
+    "id": 3,
+    "name": "美的",
+    "slug": "midea",
+    "category_slug": "home-appliance",
+    "origin": "中国",
+    "positioning": "mid",
+    "scores": {
+      "quality": 4.2,
+      "service": 4.0,
+      "value": 4.3
+    },
+    "notes": "国民家电,售后覆盖广"
+  },
+  {
+    "id": 4,
+    "name": "戴森",
+    "slug": "dyson",
+    "category_slug": "home-appliance",
+    "origin": "英国",
+    "positioning": "high-end",
+    "scores": {
+      "quality": 4.6,
+      "service": 3.5,
+      "value": 3.2
+    },
+    "notes": "高端定位,溢价明显"
+  },
+  {
+    "id": 5,
+    "name": "Lululemon",
+    "slug": "lululemon",
+    "category_slug": "apparel",
+    "origin": "加拿大",
+    "positioning": "high-end",
+    "scores": {
+      "quality": 4.5,
+      "service": 3.8,
+      "value": 3.4
+    },
+    "notes": "瑜伽裤标杆,二手保值"
+  }
+]
