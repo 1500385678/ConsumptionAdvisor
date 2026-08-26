@@ -1,0 +1,408 @@
+[
+  {
+    "product_id": "P001",
+    "platform": "jd",
+    "price": 3699,
+    "original_price": 3999,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P001",
+    "platform": "jd",
+    "price": 3599,
+    "original_price": 3999,
+    "date": "2026-08-02"
+  },
+  {
+    "product_id": "P001",
+    "platform": "jd",
+    "price": 3599,
+    "original_price": 3999,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P001",
+    "platform": "jd",
+    "price": 3599,
+    "original_price": 3999,
+    "date": "2026-08-12"
+  },
+  {
+    "product_id": "P001",
+    "platform": "jd",
+    "price": 3299,
+    "original_price": 3999,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P001",
+    "platform": "jd",
+    "price": 3599,
+    "original_price": 3999,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P001",
+    "platform": "jd",
+    "price": 3599,
+    "original_price": 3999,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P001",
+    "platform": "taobao",
+    "price": 3799,
+    "original_price": 3999,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P001",
+    "platform": "taobao",
+    "price": 3699,
+    "original_price": 3999,
+    "date": "2026-08-12"
+  },
+  {
+    "product_id": "P001",
+    "platform": "taobao",
+    "price": 3699,
+    "original_price": 3999,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P001",
+    "platform": "taobao",
+    "price": 3699,
+    "original_price": 3999,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P001",
+    "platform": "pdd",
+    "price": 3499,
+    "original_price": 3999,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P001",
+    "platform": "pdd",
+    "price": 3399,
+    "original_price": 3999,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P001",
+    "platform": "pdd",
+    "price": 3299,
+    "original_price": 3999,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P001",
+    "platform": "pdd",
+    "price": 3299,
+    "original_price": 3999,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P001",
+    "platform": "pdd",
+    "price": 3399,
+    "original_price": 3999,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P001",
+    "platform": "douyin",
+    "price": 3599,
+    "original_price": 3999,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P001",
+    "platform": "douyin",
+    "price": 3499,
+    "original_price": 3999,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P001",
+    "platform": "douyin",
+    "price": 3499,
+    "original_price": 3999,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P002",
+    "platform": "jd",
+    "price": 850,
+    "original_price": 1200,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P002",
+    "platform": "jd",
+    "price": 800,
+    "original_price": 1200,
+    "date": "2026-08-02"
+  },
+  {
+    "product_id": "P002",
+    "platform": "jd",
+    "price": 820,
+    "original_price": 1200,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P002",
+    "platform": "jd",
+    "price": 880,
+    "original_price": 1200,
+    "date": "2026-08-12"
+  },
+  {
+    "product_id": "P002",
+    "platform": "jd",
+    "price": 860,
+    "original_price": 1200,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P002",
+    "platform": "jd",
+    "price": 840,
+    "original_price": 1200,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P002",
+    "platform": "jd",
+    "price": 1299,
+    "original_price": 1599,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P002",
+    "platform": "taobao",
+    "price": 1199,
+    "original_price": 1499,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P003",
+    "platform": "jd",
+    "price": 2999,
+    "original_price": 3299,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P003",
+    "platform": "jd",
+    "price": 2899,
+    "original_price": 3299,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P003",
+    "platform": "jd",
+    "price": 2799,
+    "original_price": 3299,
+    "date": "2026-08-12"
+  },
+  {
+    "product_id": "P003",
+    "platform": "jd",
+    "price": 2899,
+    "original_price": 3299,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P003",
+    "platform": "jd",
+    "price": 2799,
+    "original_price": 3299,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P003",
+    "platform": "jd",
+    "price": 2799,
+    "original_price": 4999,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P004",
+    "platform": "taobao",
+    "price": 1300,
+    "original_price": 1500,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P004",
+    "platform": "taobao",
+    "price": 1100,
+    "original_price": 1500,
+    "date": "2026-08-02"
+  },
+  {
+    "product_id": "P004",
+    "platform": "taobao",
+    "price": 1300,
+    "original_price": 1500,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P004",
+    "platform": "taobao",
+    "price": 899,
+    "original_price": 1500,
+    "date": "2026-08-12"
+  },
+  {
+    "product_id": "P004",
+    "platform": "taobao",
+    "price": 1300,
+    "original_price": 1500,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P004",
+    "platform": "taobao",
+    "price": 1100,
+    "original_price": 1500,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P004",
+    "platform": "taobao",
+    "price": 690,
+    "original_price": 1500,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P004",
+    "platform": "jd",
+    "price": 1100,
+    "original_price": 1500,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P004",
+    "platform": "pdd",
+    "price": 949,
+    "original_price": 1500,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P005",
+    "platform": "jd",
+    "price": 320,
+    "original_price": 360,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P005",
+    "platform": "jd",
+    "price": 318,
+    "original_price": 360,
+    "date": "2026-08-02"
+  },
+  {
+    "product_id": "P005",
+    "platform": "jd",
+    "price": 322,
+    "original_price": 360,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P005",
+    "platform": "jd",
+    "price": 320,
+    "original_price": 360,
+    "date": "2026-08-12"
+  },
+  {
+    "product_id": "P005",
+    "platform": "jd",
+    "price": 318,
+    "original_price": 360,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P005",
+    "platform": "jd",
+    "price": 322,
+    "original_price": 360,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P005",
+    "platform": "jd",
+    "price": 320,
+    "original_price": 360,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P005",
+    "platform": "pdd",
+    "price": 305,
+    "original_price": 360,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P005",
+    "platform": "taobao",
+    "price": 318,
+    "original_price": 360,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P006",
+    "platform": "lululemon-flagship",
+    "price": 680,
+    "original_price": 680,
+    "date": "2026-07-29"
+  },
+  {
+    "product_id": "P006",
+    "platform": "lululemon-flagship",
+    "price": 650,
+    "original_price": 680,
+    "date": "2026-08-07"
+  },
+  {
+    "product_id": "P006",
+    "platform": "lululemon-flagship",
+    "price": 630,
+    "original_price": 680,
+    "date": "2026-08-17"
+  },
+  {
+    "product_id": "P006",
+    "platform": "lululemon-flagship",
+    "price": 650,
+    "original_price": 680,
+    "date": "2026-08-22"
+  },
+  {
+    "product_id": "P006",
+    "platform": "lululemon-flagship",
+    "price": 650,
+    "original_price": 680,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P006",
+    "platform": "pdd",
+    "price": 420,
+    "original_price": 680,
+    "date": "2026-08-27"
+  },
+  {
+    "product_id": "P006",
+    "platform": "jd",
+    "price": 720,
+    "original_price": 680,
+    "date": "2026-08-27"
+  }
+]
