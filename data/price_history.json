@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "snapshot_count": 58,
+    "sku_count": 6,
+    "generated_at": "2026-08-28T03:41:49",
+    "source": "prices.example.json"
+  },
+  "products": {
+    "P001": {
+      "snapshots": [
+        {
+          "product_id": "P001",
+          "platform": "jd",
+          "price": 3699.0,
+          "original_price": 3999.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P001",
+          "platform": "taobao",
+          "price": 3799.0,
+          "original_price": 3999.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P001",
+          "platform": "pdd",
+          "price": 3499.0,
+          "original_price": 3999.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P001",
+          "platform": "jd",
+          "price": 3599.0,
+          "original_price": 3999.0,
+          "date": "2026-08-02"
+        },
+        {
+          "product_id": "P001",
+          "platform": "jd",
+          "price": 3599.0,
+          "original_price": 3999.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P001",
+          "platform": "pdd",
+          "price": 3399.0,
+          "original_price": 3999.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P001",
+          "platform": "douyin",
+          "price": 3599.0,
+          "original_price": 3999.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P001",
+          "platform": "jd",
+          "price": 3599.0,
+          "original_price": 3999.0,
+          "date": "2026-08-12"
+        },
+        {
+          "product_id": "P001",
+          "platform": "taobao",
+          "price": 3699.0,
+          "original_price": 3999.0,
+          "date": "2026-08-12"
+        },
+        {
+          "product_id": "P001",
+          "platform": "jd",
+          "price": 3299.0,
+          "original_price": 3999.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P001",
+          "platform": "pdd",
+          "price": 3299.0,
+          "original_price": 3999.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P001",
+          "platform": "douyin",
+          "price": 3499.0,
+          "original_price": 3999.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P001",
+          "platform": "jd",
+          "price": 3599.0,
+          "original_price": 3999.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P001",
+          "platform": "taobao",
+          "price": 3699.0,
+          "original_price": 3999.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P001",
+          "platform": "pdd",
+          "price": 3299.0,
+          "original_price": 3999.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P001",
+          "platform": "jd",
+          "price": 3599.0,
+          "original_price": 3999.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P001",
+          "platform": "taobao",
+          "price": 3699.0,
+          "original_price": 3999.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P001",
+          "platform": "pdd",
+          "price": 3399.0,
+          "original_price": 3999.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P001",
+          "platform": "douyin",
+          "price": 3499.0,
+          "original_price": 3999.0,
+          "date": "2026-08-27"
+        }
+      ],
+      "stats": {
+        "count": 19,
+        "date_min": "2026-07-29",
+        "date_max": "2026-08-27",
+        "platforms": {
+          "jd": 7,
+          "taobao": 4,
+          "pdd": 5,
+          "douyin": 3
+        },
+        "min_price": 3299.0,
+        "max_price": 3799.0
+      }
+    },
+    "P002": {
+      "snapshots": [
+        {
+          "product_id": "P002",
+          "platform": "jd",
+          "price": 850.0,
+          "original_price": 1200.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P002",
+          "platform": "jd",
+          "price": 800.0,
+          "original_price": 1200.0,
+          "date": "2026-08-02"
+        },
+        {
+          "product_id": "P002",
+          "platform": "jd",
+          "price": 820.0,
+          "original_price": 1200.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P002",
+          "platform": "jd",
+          "price": 880.0,
+          "original_price": 1200.0,
+          "date": "2026-08-12"
+        },
+        {
+          "product_id": "P002",
+          "platform": "jd",
+          "price": 860.0,
+          "original_price": 1200.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P002",
+          "platform": "jd",
+          "price": 840.0,
+          "original_price": 1200.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P002",
+          "platform": "jd",
+          "price": 1299.0,
+          "original_price": 1599.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P002",
+          "platform": "taobao",
+          "price": 1199.0,
+          "original_price": 1499.0,
+          "date": "2026-08-27"
+        }
+      ],
+      "stats": {
+        "count": 8,
+        "date_min": "2026-07-29",
+        "date_max": "2026-08-27",
+        "platforms": {
+          "jd": 7,
+          "taobao": 1
+        },
+        "min_price": 800.0,
+        "max_price": 1299.0
+      }
+    },
+    "P003": {
+      "snapshots": [
+        {
+          "product_id": "P003",
+          "platform": "jd",
+          "price": 2999.0,
+          "original_price": 3299.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P003",
+          "platform": "jd",
+          "price": 2899.0,
+          "original_price": 3299.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P003",
+          "platform": "jd",
+          "price": 2799.0,
+          "original_price": 3299.0,
+          "date": "2026-08-12"
+        },
+        {
+          "product_id": "P003",
+          "platform": "jd",
+          "price": 2899.0,
+          "original_price": 3299.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P003",
+          "platform": "jd",
+          "price": 2799.0,
+          "original_price": 3299.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P003",
+          "platform": "jd",
+          "price": 2799.0,
+          "original_price": 4999.0,
+          "date": "2026-08-27"
+        }
+      ],
+      "stats": {
+        "count": 6,
+        "date_min": "2026-07-29",
+        "date_max": "2026-08-27",
+        "platforms": {
+          "jd": 6
+        },
+        "min_price": 2799.0,
+        "max_price": 2999.0
+      }
+    },
+    "P004": {
+      "snapshots": [
+        {
+          "product_id": "P004",
+          "platform": "taobao",
+          "price": 1300.0,
+          "original_price": 1500.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P004",
+          "platform": "taobao",
+          "price": 1100.0,
+          "original_price": 1500.0,
+          "date": "2026-08-02"
+        },
+        {
+          "product_id": "P004",
+          "platform": "taobao",
+          "price": 1300.0,
+          "original_price": 1500.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P004",
+          "platform": "taobao",
+          "price": 899.0,
+          "original_price": 1500.0,
+          "date": "2026-08-12"
+        },
+        {
+          "product_id": "P004",
+          "platform": "taobao",
+          "price": 1300.0,
+          "original_price": 1500.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P004",
+          "platform": "taobao",
+          "price": 1100.0,
+          "original_price": 1500.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P004",
+          "platform": "taobao",
+          "price": 690.0,
+          "original_price": 1500.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P004",
+          "platform": "jd",
+          "price": 1100.0,
+          "original_price": 1500.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P004",
+          "platform": "pdd",
+          "price": 949.0,
+          "original_price": 1500.0,
+          "date": "2026-08-27"
+        }
+      ],
+      "stats": {
+        "count": 9,
+        "date_min": "2026-07-29",
+        "date_max": "2026-08-27",
+        "platforms": {
+          "taobao": 7,
+          "jd": 1,
+          "pdd": 1
+        },
+        "min_price": 690.0,
+        "max_price": 1300.0
+      }
+    },
+    "P005": {
+      "snapshots": [
+        {
+          "product_id": "P005",
+          "platform": "jd",
+          "price": 320.0,
+          "original_price": 360.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P005",
+          "platform": "jd",
+          "price": 318.0,
+          "original_price": 360.0,
+          "date": "2026-08-02"
+        },
+        {
+          "product_id": "P005",
+          "platform": "jd",
+          "price": 322.0,
+          "original_price": 360.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P005",
+          "platform": "jd",
+          "price": 320.0,
+          "original_price": 360.0,
+          "date": "2026-08-12"
+        },
+        {
+          "product_id": "P005",
+          "platform": "jd",
+          "price": 318.0,
+          "original_price": 360.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P005",
+          "platform": "jd",
+          "price": 322.0,
+          "original_price": 360.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P005",
+          "platform": "jd",
+          "price": 320.0,
+          "original_price": 360.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P005",
+          "platform": "pdd",
+          "price": 305.0,
+          "original_price": 360.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P005",
+          "platform": "taobao",
+          "price": 318.0,
+          "original_price": 360.0,
+          "date": "2026-08-27"
+        }
+      ],
+      "stats": {
+        "count": 9,
+        "date_min": "2026-07-29",
+        "date_max": "2026-08-27",
+        "platforms": {
+          "jd": 7,
+          "pdd": 1,
+          "taobao": 1
+        },
+        "min_price": 305.0,
+        "max_price": 322.0
+      }
+    },
+    "P006": {
+      "snapshots": [
+        {
+          "product_id": "P006",
+          "platform": "lululemon-flagship",
+          "price": 680.0,
+          "original_price": 680.0,
+          "date": "2026-07-29"
+        },
+        {
+          "product_id": "P006",
+          "platform": "lululemon-flagship",
+          "price": 650.0,
+          "original_price": 680.0,
+          "date": "2026-08-07"
+        },
+        {
+          "product_id": "P006",
+          "platform": "lululemon-flagship",
+          "price": 630.0,
+          "original_price": 680.0,
+          "date": "2026-08-17"
+        },
+        {
+          "product_id": "P006",
+          "platform": "lululemon-flagship",
+          "price": 650.0,
+          "original_price": 680.0,
+          "date": "2026-08-22"
+        },
+        {
+          "product_id": "P006",
+          "platform": "lululemon-flagship",
+          "price": 650.0,
+          "original_price": 680.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P006",
+          "platform": "pdd",
+          "price": 420.0,
+          "original_price": 680.0,
+          "date": "2026-08-27"
+        },
+        {
+          "product_id": "P006",
+          "platform": "jd",
+          "price": 720.0,
+          "original_price": 680.0,
+          "date": "2026-08-27"
+        }
+      ],
+      "stats": {
+        "count": 7,
+        "date_min": "2026-07-29",
+        "date_max": "2026-08-27",
+        "platforms": {
+          "lululemon-flagship": 5,
+          "pdd": 1,
+          "jd": 1
+        },
+        "min_price": 420.0,
+        "max_price": 720.0
+      }
+    }
+  }
+}

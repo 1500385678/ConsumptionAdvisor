@@ -29,15 +29,25 @@ python3 scripts/rank_brands.py                       # 全品类 top 5
 python3 scripts/rank_brands.py -c digital -n 3       # 数码 top 3
 python3 scripts/rank_brands.py -c apparel -p value   # 性价比服饰
 
+# 4. 历史价导入(归一化价格快照 → 按 product_id 分组)
+python3 scripts/import_price_history.py              # 导入并写 data/price_history.json
+python3 scripts/import_price_history.py --stats      # 打印每 SKU 摘要表
+
+# 5. 30 天最低价 + 虚假折扣检测
+python3 scripts/lowest_price.py --input data/prices.example.json
+
 # 4. 单测(无需 pytest)
 python3 tests/test_md_to_json.py
 python3 tests/test_brands.py
+python3 tests/test_import_price_history.py
 ```
 
 ## 数据层
 - `data/categories.json` — 10 大品类(数码/家电/服饰/美妆/母婴/食品/家居/运动/图书/健康)
 - `data/brands.json` — 54 品牌种子(质量/服务/性价比三维度,0-5 评分)
 - `data/schema.json` — JSON Schema 校验文件
+- `data/prices.example.json` — 价格快照样例(6 SKU × 58 快照,2026-08-27 落地)
+- `data/price_history.json` — 归一化历史价(由 `import_price_history.py` 生成)
 
 ## 目录结构
 ```
