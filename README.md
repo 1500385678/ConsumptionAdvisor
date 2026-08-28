@@ -36,10 +36,13 @@ python3 scripts/import_price_history.py --stats      # 打印每 SKU 摘要表
 # 5. 30 天最低价 + 虚假折扣检测
 python3 scripts/lowest_price.py --input data/prices.example.json
 
-# 4. 单测(无需 pytest)
+# 6. 单测(无需 pytest)
 python3 tests/test_md_to_json.py
 python3 tests/test_brands.py
+python3 tests/test_lowest_price.py
 python3 tests/test_import_price_history.py
+# 或一次性跑全部
+python3 -m unittest discover tests/
 ```
 
 ## 数据层
